@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>TX.1.: uncertain</title>
                 <respStmt>
-                    <resp>Encoded in XML from original publication</resp>
-                        <name>Tom Elliott</name>
-                        <name>David M. Ratzan</name>
-                </respStmt>
-            </titleStmt>
+        <resp>Encoded in XML from original publication</resp>
+        <name>Tom Elliott</name>
+        <name>David M. Ratzan</name>
+        <name>Patrick J. Burns</name>
+    </respStmt></titleStmt>
             <publicationStmt>
                 <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
             </publicationStmt>
@@ -32,7 +32,7 @@
                         <settlement>Izmir</settlement>
                         <geogName>Basilica of the Agora of Smyrna</geogName>
                         <repository>SMY</repository>
-                        <idno></idno>
+                        <idno/>
                         <msName>Smyrna Agora Basilica TX.1.</msName>
                     </msIdentifier>
                     <physDesc>
@@ -74,7 +74,7 @@
                 </ab>
             </div>
             <div type="translation">
-                <ab></ab>
+                <ab/>
             </div>
             <div type="commentary">
                 <p>1. If this is not broken at left, one would naturally read *ὁδοφόρος, “road-bearing” or “road-bearer.” As this word is not otherwise attested to our knowledge, more promising would be the assumption of a lost letter and a reading ῥοδοφόρος. 2. See the drawing. The initial letter(s) could be omicron, epsilon, epsilon iota, or perhaps sigma upsilon. The first eta is also indistinct in Miltner’s copy and could represent something else. The only suggestion for an intepretation that has occurred to us is συνήρθη, aorist pas- sive of συναίρω. we cannot propose a suitable meaning with either the putative *ὁδοφόρος or ῥοδοφόρος with any confidence.</p>
