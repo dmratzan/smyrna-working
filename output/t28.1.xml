@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>T28.1.: riddle</title>
-            </titleStmt>
+            <respStmt>
+        <resp>Encoded in XML from original publication</resp>
+        <name>Tom Elliott</name>
+        <name>David M. Ratzan</name>
+        <name>Patrick J. Burns</name>
+    </respStmt></titleStmt>
             <publicationStmt>
                 <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
                     ready for publication.</ab>
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>R.S. Bagnall</author>, 
-                    <author>R. Casagrande-Kim</author>, 
-                    <author>A. Ersoy</author>, 
-                    <author>C. Tanriver</author> and 
-                    <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <author>R.S. Bagnall</author>,
+                    <author>R. Casagrande-Kim</author>,
+                    <author>A. Ersoy</author>,
+                    <author>C. Tanriver</author> and
+                    <author>B. Yolaçan</author>,
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title>
                     (<pubPlace>New York</pubPlace>
-                    <date>2016</date>), 
+                    <date>2016</date>),
                     <biblScope unit="item">T28.1.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
@@ -41,9 +46,9 @@
                     </physDesc>
                 </msDesc>
             </sourceDesc>
-            
+
         </fileDesc>
-        
+
     </teiHeader>
     <text>
         <body>
@@ -51,7 +56,7 @@
                 <ab>
                     <lb/>ζήτημα Εἴσιδι αδι αδι διασω
                     <lb break="no"/>θείς αδι α-
-                    <lb/>δ[ι’] <Ἰσ>ίδωρ̣ος̣
+                    <lb/>δ[ι’] &lt;Ἰσ&gt;ίδωρ̣ος̣
                     <lb/>traces ΕΝ
                     <lb/>ΑΜ   ̣  ̣  ̣  ̣  ̣ ΠΕΙΠ   ̣  ̣</ab>
             </div>

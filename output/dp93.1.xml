@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>DP93.1.: decorative: circle on the south face of pier a93, incised. diameter 38 cm.</title>
-            </titleStmt>
+            <respStmt>
+        <resp>Encoded in XML from original publication</resp>
+        <name>Tom Elliott</name>
+        <name>David M. Ratzan</name>
+        <name>Patrick J. Burns</name>
+    </respStmt></titleStmt>
             <publicationStmt>
                 <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
                     ready for publication.</ab>
@@ -33,7 +38,7 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support></support>
+                                <support/>
                             </supportDesc>
                         </objectDesc>
                     </physDesc>
@@ -46,13 +51,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve">
-                <ab></ab>
+                <ab/>
             </div>
             <div type="translation">
-                <ab></ab>
+                <ab/>
             </div>
             <div type="commentary">
-                <ab></ab>
+                <ab/>
             </div>
         </body>
     </text>
