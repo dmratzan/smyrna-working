@@ -43,7 +43,7 @@
                                 <support>Bay 6 (equals G12, between Piers A16 and A17)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Four lines, about 
+                                <layout>Four lines, dimensions approximately: 
                                     <dimensions>
                                         <width unit="centimeter">64</width>
                                         <height unit="centimeter">36</height>
@@ -52,9 +52,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Lines 2-3 are in one hand (majuscules), line 4 definitely in a different hand. It is not certain if line 1 is in the same hand as lines 2-3, but it appears more ligatured.</rs>
-                                Letter heights: <height unit="centimeter" scope="letter">3</height>
+                            <handNote>Lines 2-3 are in one hand (majuscules), line 4 definitely in a different hand. It is not certain if line 1 is in the same hand as lines 2-3, but it appears more ligatured.
+                                Letter heights: <height unit="centimeter" scope="letter">3</height> cm high
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -83,7 +82,7 @@
                 <ab></ab>
             </div>
             <div type="commentary">
-                <ab>on the bevel of the pier at right (a17) is a drawing of an animal, evidently a cat (D6.2).</ab>
+                <ab>On the bevel of the pier at right (a17) is a drawing of an animal, evidently a cat (D6.2).</ab>
             </div>
             <div type="bibliography">
                 <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 101.</p>

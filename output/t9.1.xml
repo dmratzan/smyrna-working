@@ -43,7 +43,7 @@
                                 <support>Bay 9 (=G15, between Piers A19 and A20); last replastering.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>In the center of the panel, starting 30 cm from the left edge.
+                                <layout>In the center of the panel, starting 30 cm from the left edge. Dimensions:
                                     <dimensions>
                                         <height unit="centimeter">12</height>
                                         <width unit="centimeter">98</width>
@@ -52,9 +52,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Large rounded majuscules</rs>
-                                <height unit="centimeter" scope="letter">11</height>
+                            <handNote>Large rounded majuscules. Letter height:
+                                <height unit="centimeter" scope="letter">11</height> cm  high
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -71,7 +70,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><placeName><w lemma="Ἀσία">Ἀσίας</w><idno type="pleiades">https://pleiades.stoa.org/places/981509</idno></placeName> <w lemma="πρῶτος">πρώτοις</w>
                     <lb n="2"/><placeName><w lemma="Ἐφέσιος">Ἐφεσίοις</w><idno type="pleiades">https://pleiades.stoa.org/places/599612</idno></placeName>

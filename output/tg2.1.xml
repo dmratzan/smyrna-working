@@ -42,7 +42,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <dim type="fromGround" unit="centimeter">157 cm from the ground.</dim>
+                                    <dim type="fromGround" unit="centimeter">157 cm from the ground.</dim> Dimensions:
                                         <dimensions>
                                             <height unit="centimeter">24</height>
                                             <width unit="centimeter">17</width>
@@ -68,7 +68,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>

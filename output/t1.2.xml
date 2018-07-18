@@ -45,8 +45,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Detached but cursive style letters.</rs>
+                            <handNote>Detached but cursive style letters. Letter heights:
                                 <height unit="centimeter" min="2.5" max="3" scope="letter"> 2.5–3 cm high</height>, except for rho:<height unit="centimeter" scope="individualletter">5 cm</height>
                             </handNote>                      
                         </handDesc>

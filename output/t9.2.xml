@@ -52,9 +52,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Detached majuscules</rs>
-                                Letter heights: <height unit="centimeter" scope="letter">3</height>
+                            <handNote>Detached majuscules.
+                                Letter heights: <height unit="centimeter" scope="letter">3</height> cm high.
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -71,7 +70,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/>ὁ <w lemma="ἀναγιγνώσκω">ἀναγεινώ <add place="above">σ</add>
                     -<lb n="2"/>κων</w> τὸν <w lemma="θεός">θεὸν</w>

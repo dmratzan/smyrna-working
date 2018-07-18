@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TX.1.: uncertain</title>
+                <title>TX.1.: Uncertain</title>
                 <respStmt>
                     <resp>Encoded in XML from original publication</resp>
                         <name>Tom Elliott</name>
@@ -41,7 +41,7 @@
                                 <support>A121 (stairs). To the right of the staircase, at the lower end, 87 cm above the second step. Incised in plaster. </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>ΔΟΦΟΡΟ was still legible in 2014; the plaster of line 2 has been lost.
+                                <layout>ΔΟΦΟΡΟ was still legible in 2014; the plaster of line 2 has been lost. Dimensions:
                                     <dimensions>
                                         <height unit="centimeter">10</height>
                                         <width unit="centimeter">23.5</width>
@@ -50,8 +50,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="3" max="3.5" scope="letter">3.0-3.5</height>
-                            </handNote>
+                            <handNote>Letter heights: <height unit="centimeter" min="3" max="3.5" scope="letter">3.0-3.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>

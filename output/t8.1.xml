@@ -43,7 +43,7 @@
                                 <support>Bay 8 (=G14, between piers A18 and A19)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Four lines, located 58 cm from the left edge and 25 cm from the bottom of the window cutting. Below line 4 there are signs of a new coat of plaster, covering any additional lines originally written (cf. also on T8.2).
+                                <layout>Four lines, located 58 cm from the left edge and 25 cm from the bottom of the window cutting. Below line 4 there are signs of a new coat of plaster, covering any additional lines originally written (cf. also on T8.2). Dimensions:
                                     <dimensions>
                                         <height unit="centimeter">29</height>
                                         <width unit="centimeter">92</width>
@@ -52,10 +52,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Largely detached majuscule letters</rs>
-                                Possibly the same hand as T9.5
-                                Letter height: <height unit="centimeter" scope="letter">5</height>
+                            <handNote> Largely detached majuscule letters. Possibly the same hand as T9.5
+                                Letter height: <height unit="centimeter" scope="letter">5</height> cm high
                             </handNote>
                         </handDesc>
                     </physDesc>
