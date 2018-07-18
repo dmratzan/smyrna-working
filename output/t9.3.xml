@@ -53,9 +53,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Detached majuscule letters</rs>
-                                <height unit="centimeter" scope="letter">3</height>
+                            <handNote>Detached majuscule letters. Letter height:
+                                <height unit="centimeter" scope="letter">3</height> cm.
                             </handNote>
                         </handDesc>
                     </physDesc>
