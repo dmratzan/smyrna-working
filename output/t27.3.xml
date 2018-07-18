@@ -13,14 +13,14 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>R.S. Bagnall</author>, 
-                    <author>R. Casagrande-Kim</author>, 
-                    <author>A. Ersoy</author>, 
-                    <author>C. Tanriver</author> and 
-                    <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <author>R.S. Bagnall</author>,
+                    <author>R. Casagrande-Kim</author>,
+                    <author>A. Ersoy</author>,
+                    <author>C. Tanriver</author> and
+                    <author>B. Yolaçan</author>,
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title>
                     (<pubPlace>New York</pubPlace>
-                    <date>2016</date>), 
+                    <date>2016</date>),
                     <biblScope unit="item">T27.3.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
@@ -39,15 +39,15 @@
                     </physDesc>
                 </msDesc>
             </sourceDesc>
-            
+
         </fileDesc>
-        
+
     </teiHeader>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb/>φιλῶ ἧς ὁ <ἀ>ριθμὸς Ατη</ab>
+                    <lb/>φιλῶ ἧς ὁ &lt;ἀ&gt;ριθμὸς Ατη</ab>
             </div>
             <div type="translation">
                 <ab>“I love (a woman) whose number is 1,308.”</ab>

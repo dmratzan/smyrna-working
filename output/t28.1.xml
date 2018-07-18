@@ -13,14 +13,14 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>R.S. Bagnall</author>, 
-                    <author>R. Casagrande-Kim</author>, 
-                    <author>A. Ersoy</author>, 
-                    <author>C. Tanriver</author> and 
-                    <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <author>R.S. Bagnall</author>,
+                    <author>R. Casagrande-Kim</author>,
+                    <author>A. Ersoy</author>,
+                    <author>C. Tanriver</author> and
+                    <author>B. Yolaçan</author>,
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title>
                     (<pubPlace>New York</pubPlace>
-                    <date>2016</date>), 
+                    <date>2016</date>),
                     <biblScope unit="item">T28.1.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
@@ -41,9 +41,9 @@
                     </physDesc>
                 </msDesc>
             </sourceDesc>
-            
+
         </fileDesc>
-        
+
     </teiHeader>
     <text>
         <body>
@@ -51,7 +51,7 @@
                 <ab>
                     <lb/>ζήτημα Εἴσιδι αδι αδι διασω
                     <lb break="no"/>θείς αδι α-
-                    <lb/>δ[ι’] <Ἰσ>ίδωρ̣ος̣
+                    <lb/>δ[ι’] &lt;Ἰσ&gt;ίδωρ̣ος̣
                     <lb/>traces ΕΝ
                     <lb/>ΑΜ   ̣  ̣  ̣  ̣  ̣ ΠΕΙΠ   ̣  ̣</ab>
             </div>
