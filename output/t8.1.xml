@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T8.1.: Orders</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                        <name>Tom Elliott</name>
+                        <name>David M. Ratzan</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New
+                    York University Press, 2016. XML edition published by the Institute for the
+                    Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T8.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno></idno>
+                        <msName>Smyrna Agora Basilica T8.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 8 (=G14, between piers A18 and A19)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Four lines, located 58 cm from the left edge and 25 cm from the bottom of the window cutting. Below line 4 there are signs of a new coat of plaster, covering any additional lines originally written (cf. also on T8.2).
+                                    <dimensions>
+                                        <height unit="centimeter">29</height>
+                                        <width unit="centimeter">92</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <rs type="execution">Largely detached majuscule letters</rs>
+                                Possibly the same hand as T9.5
+                                Letter height: <height unit="centimeter" scope="letter">5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                   <lb n="1"/><persName type="attested"><name nymRef="Ὀνήσιμος" type="cognomen">Ὀνήσιμε</name></persName>, μὴ <w lemma="*κλειδίζω">κλίδι<unclear>σο</unclear>ν</w>
+                   <lb n="2"/>καὶ <w lemma="μιαίνω">μί<unclear>αιν</unclear>ε</w> τὴν ὑπὸ <w lemma="θεός">θεῶν</w>
+                   <lb n="3"/><w lemma="κτάομαι">ἐκτημέ<unclear>νη</unclear>ν</w> <geogName type="spring">Βαιτην</geogName>
+                   <lb n="4"/>ἐὰν <unclear>δὲ</unclear> καὶ <w lemma="καταπίνω">καταπείνῃ</w>
+                   <gap reason="lost" extent="unknown" unit="line"/>
+                </ab>
+            </div>
+            <div type="translation">
+                <ab>"Οnesimos, do not lock up and pollute the Baite possessed by the gods; but if he also consumes..."</ab>
+            </div>
+            <div type="commentary">
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 105-106.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
