@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>T8.1.: Orders</title>
                 <respStmt>
-                    <resp>Encoded in XML from original publication</resp>
-                        <name>Tom Elliott</name>
-                        <name>David M. Ratzan</name>
-                </respStmt>
-            </titleStmt>
+        <resp>Encoded in XML from original publication</resp>
+        <name>Tom Elliott</name>
+        <name>David M. Ratzan</name>
+        <name>Patrick J. Burns</name>
+    </respStmt></titleStmt>
             <publicationStmt>
                 <ab>First published by the Institute for the Study of the Ancient World and the New
                     York University Press, 2016. XML edition published by the Institute for the
@@ -34,7 +34,7 @@
                         <settlement>Izmir</settlement>
                         <geogName>Basilica of the Agora of Smyrna</geogName>
                         <repository>SMY</repository>
-                        <idno></idno>
+                        <idno/>
                         <msName>Smyrna Agora Basilica T8.1.</msName>
                     </msIdentifier>
                     <physDesc>
