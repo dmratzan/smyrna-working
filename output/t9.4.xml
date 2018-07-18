@@ -43,7 +43,7 @@
                                 <support>Bay 9 (=G15, between Piers A19 and A20); last replastering.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Below and to the right of T9.2; about 13 cm below the bottom of the rectangle of the tabula ansata, and ending ca. 30 cm from the right pier. 
+                                <layout>Below and to the right of T9.2; about 13 cm below the bottom of the rectangle of the tabula ansata, and ending ca. 30 cm from the right pier. Dimensions:
                                     <dimensions>
                                         <height unit="centimeter">12</height>
                                         <width unit="centimeter">32</width>
@@ -52,9 +52,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Block capital letters</rs>
-                                Letter <height unit="centimeter" min="5" max="6" scope="letter">5-6</height> cm high.
+                            <handNote>Block capital letters.
+                                Letter height: <height unit="centimeter" min="5" max="6" scope="letter">5-6</height> cm high.
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -71,7 +70,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
 <ab>
 <lb n="1"/><w lemma="τόπος">τόπος</w>
 <lb n="2"/>ΑΔ . . ΙΣ
@@ -81,7 +80,7 @@
                 <ab/>
             </div>
             <div type="commentary">
-                <p>1-2. See Lagner 2001: no. 1291 (<w lemma="τόπος">τόπος</w> Ἔρωτος) and large numbers of instances at Aphrodisias. We expect a personal name in line 2 but have not been able to read one.(</p>
+                <p>1-2. See Lagner, Antike Graffitizeichnungen (2001): no. 1291 (<w lemma="τόπος">τόπος</w> Ἔρωτος) and large numbers of instances at Aphrodisias. We expect a personal name in line 2 but have not been able to read one.(</p>
             </div>
             <div type="bibliography">
                 <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 119.</p>
