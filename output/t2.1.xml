@@ -41,12 +41,12 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>Bay 2 (i.e., G8, between piers A12 and A13)</support>
+                                <support>Bay 2 (= G8, between piers A12 and A13)</support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>Four lines, broken at right; it is uncertain if more may
                                     have faded at left than our text indicates, as there is no clear
-                                    edge.      
+                                    edge. Dimensions:      
                                     <dimensions>
                                         <height unit="centimeter">28</height>
                                         <width unit="centimeter">48</width>
@@ -55,8 +55,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Irregular cursive hand; entire inscription crossed out with large X</rs>
+                            <handNote>Irregular cursive hand; entire inscription crossed out with large X.
                                 Letter heights: <height unit="centimeter" min="3" max="4" scope="letter">3-4 cm, except rho.</height>
                             </handNote>
                         </handDesc>

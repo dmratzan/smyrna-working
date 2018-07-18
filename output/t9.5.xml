@@ -41,7 +41,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>Four lines and 2 letters+ on a fifth. A new layer of plaster
-                                    covers any additional lines that stood below those read. Area: 
+                                    covers any additional lines that stood below those read. Dimensions:
                                     <dimensions>
                                         <height unit="centimeter">27</height>
                                         <width unit="centimeter">110</width>
@@ -50,8 +50,9 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">Block capital letters</rs> Letter <height unit="centimeter" min="4" max="5" scope="letter">5-6</height> cm
+
+                            <handNote>Block capital letters. Letter height: <height
+                                    unit="centimeter" min="4" max="5" scope="letter">5-6</height> cm
                                 high. </handNote>
                         </handDesc>
                     </physDesc>
@@ -68,7 +69,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><del rend="erasure"><gap reason="lost" quantity="9" unit="character"/></del> <gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ΑΠΕ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="illegible" quantity="2" unit="character"/><unclear>η</unclear> τὴν <geogName type="spring">Βαιτη<supplied reason="lost">ν</supplied></geogName> καὶ <w lemma="ἀφανίζω">ἀφανίσ<supplied reason="lost">ῃ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
